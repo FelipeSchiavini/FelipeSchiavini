@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-zclpz&psig=AOvVaw3pMFw6yGvXU4_PqcNuCJBR&ust=1638545685837000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiQsMG4xfQCFQAAAAAdAAAAABAD)
+![This is an image]![image](https://user-images.githubusercontent.com/52425298/144453756-5f550ba7-1e80-4dfc-b890-2c285ddcf6f9.png)
+
 
 <!--
 **FelipeSchiavini/FelipeSchiavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
