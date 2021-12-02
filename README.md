@@ -1,14 +1,4 @@
 
-
-<style>
-div{
-    display:flex;
-    justify-content:start;
-    color:blue;
-}
-</style>
-
-<div>
 <img src="https://user-images.githubusercontent.com/52425298/144454423-41ed0cf7-07a3-4c7a-87e7-d6b4f4557a7e.png" alt="linkedin" width=40>
 <span> linkedin.com/in/felipeschiavini</span>
 </div>
