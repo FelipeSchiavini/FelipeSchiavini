@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![This is an image]![image](https://user-images.githubusercontent.com/52425298/144453756-5f550ba7-1e80-4dfc-b890-2c285ddcf6f9.png)
+<!-- ![This is an image]![image]() -->
+<img src="https://user-images.githubusercontent.com/52425298/144453756-5f550ba7-1e80-4dfc-b890-2c285ddcf6f9.png" alt="drawing" width="200"/>
 
 
 <!--
