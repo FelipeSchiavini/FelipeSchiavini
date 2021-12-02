@@ -1,11 +1,14 @@
 
-<img src="https://user-images.githubusercontent.com/52425298/144454423-41ed0cf7-07a3-4c7a-87e7-d6b4f4557a7e.png" alt="linkedin" width=40>
 <span> linkedin.com/in/felipeschiavini</span>
-</div>
-
 
 <img src="https://user-images.githubusercontent.com/52425298/144453756-5f550ba7-1e80-4dfc-b890-2c285ddcf6f9.png" alt="drawing" width="650"/>
 
+
+## &#x1f4c8; My GitHub Stats
+
+![](https://komarev.com/ghpvc/?username=felipesc99)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesc99&layout=compact&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FelipeSchiavini/FelipeSchiavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
