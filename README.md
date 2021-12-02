@@ -1,6 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/52425298/144454393-db5c9f7f-b6a0-43b4-b6fe-8810baeb7df4.png)
-<img src="https://user-images.githubusercontent.com/52425298/144454423-41ed0cf7-07a3-4c7a-87e7-d6b4f4557a7e.png" alt="linkedin" width=100>
+<img src="https://user-images.githubusercontent.com/52425298/144454423-41ed0cf7-07a3-4c7a-87e7-d6b4f4557a7e.png" alt="linkedin" width=45>
 <strong>https://www.linkedin.com/in/felipeschiavini/</strong>
 
 <img src="https://user-images.githubusercontent.com/52425298/144453756-5f550ba7-1e80-4dfc-b890-2c285ddcf6f9.png" alt="drawing" width="650"/>
